@@ -1,0 +1,49 @@
+
+
+#Cbn{
+    position: fixed;
+    left: 350px;
+    top:100px;
+    object-fit: contain;
+    z-index: 18;
+    
+   
+}
+
+#Pvn{
+    position: fixed;
+    height: 680px;
+    right:400px;
+    z-index:19;
+    object-fit: contain;
+    
+}
+
+#Modi{
+    position: fixed;
+    z-index:20;
+    top:60px;
+    right:600px;
+    
+    
+}
+
+body{
+    background-image: url("./images/123-removebg-preview.png");
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    /* height:100vh;   */
+    /* background-position:0px -220px; */
+    /* text-align: center; */
+    object-fit: fill;
+    background-repeat: no-repeat;
+}   
+
+#Div{
+    /* position: fixed; */
+    background-attachment: fixed;
+
+} 
+
+
+
